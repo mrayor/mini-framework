@@ -49,6 +49,21 @@
       "name": "test newer name",
       "age": 100,
       "id": 10
+    },
+    {
+      "name": "NAME",
+      "age": 20,
+      "id": 11
+    },
+    {
+      "name": "testing",
+      "age": 20,
+      "id": 12
+    },
+    {
+      "name": "NAME",
+      "age": 20,
+      "id": 13
     }
   ]
 }
